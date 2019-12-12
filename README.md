@@ -7,7 +7,7 @@ Team Members:
 - Hoang Pham
 - Ryan Pham
 - Dale Reyes
-- Quang/Kenny "MSYG" Tran
+- Quang Tran
 
 ## Technology Stock
 - ElectronJS (Infrastructure)
